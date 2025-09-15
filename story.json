@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "stories": [
     {
       "id": "yt1",
@@ -25,18 +25,7 @@
         }
       ]
     },
-    {
-      "id": "yt3",
-      "thumbnailUrl": "https://img.youtube.com/vi/y9wdRPelxGc/hqdefault.jpg",
-      "tag": "Promo",
-      "content": [
-        {
-          "type": "web",
-          "url": "https://youtube.com/shorts/y9wdRPelxGc",
-          "poster": "https://img.youtube.com/vi/y9wdRPelxGc/hqdefault.jpg"
-        }
-      ]
-    },
+   
     {
       "id": "yt4",
       "thumbnailUrl": "https://img.youtube.com/vi/AHQgyESfgac/hqdefault.jpg",
