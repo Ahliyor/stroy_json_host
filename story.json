@@ -1,5 +1,5 @@
 {
-  "version": "1.3"
+  "version": "1.2",
   "stories": [
     {
       "id": "yt2",
@@ -8,7 +8,7 @@
       "content": [
         {
           "type": "web",
-          "url": "https://youtube.com/Y-tLBLYPEIY",
+          "url": "https://youtube.com/shorts/Y-tLBLYPEIY",
           "poster": "https://img.youtube.com/vi/Y-tLBLYPEIY/hqdefault.jpg"
         }
       ]
@@ -20,7 +20,7 @@
       "content": [
         {
           "type": "web",
-          "url": "https://youtube.com/tU26VrZkWA4",
+          "url": "https://youtube.com/shorts/tU26VrZkWA4",
           "poster": "https://img.youtube.com/vi/tU26VrZkWA4/hqdefault.jpg"
         }
       ]
@@ -33,7 +33,7 @@
       "content": [
         {
           "type": "web",
-          "url": "https://youtube.com/AHQgyESfgac",
+          "url": "https://youtube.com/shorts/AHQgyESfgac",
           "poster": "https://img.youtube.com/vi/AHQgyESfgac/hqdefault.jpg"
         }
       ]
@@ -45,7 +45,7 @@
       "content": [
         {
           "type": "web",
-          "url": "https://youtube.com/6-nqM9ZFq_c",
+          "url": "https://youtube.com/shorts/6-nqM9ZFq_c",
           "poster": "https://img.youtube.com/vi/6-nqM9ZFq_c/hqdefault.jpg"
         }
       ]
@@ -57,7 +57,7 @@
       "content": [
         {
           "type": "web",
-          "url": "https://youtube.com/FM6WIIWa_7c",
+          "url": "https://youtube.com/shorts/FM6WIIWa_7c",
           "poster": "https://img.youtube.com/vi/FM6WIIWa_7c/hqdefault.jpg"
         }
       ]
