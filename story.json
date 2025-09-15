@@ -1,0 +1,77 @@
+{
+  "version": "1.0",
+  "stories": [
+    {
+      "id": "yt1",
+      "thumbnailUrl": "https://img.youtube.com/vi/tU26VrZkWA4/hqdefault.jpg",
+      "tag": "Promo",
+      "content": [
+        {
+          "type": "web",
+          "url": "https://youtube.com/shorts/tU26VrZkWA4",
+          "poster": "https://img.youtube.com/vi/tU26VrZkWA4/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "yt2",
+      "thumbnailUrl": "https://img.youtube.com/vi/Y-tLBLYPEIY/hqdefault.jpg",
+      "tag": "Promo",
+      "content": [
+        {
+          "type": "web",
+          "url": "https://youtube.com/shorts/Y-tLBLYPEIY",
+          "poster": "https://img.youtube.com/vi/Y-tLBLYPEIY/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "yt3",
+      "thumbnailUrl": "https://img.youtube.com/vi/y9wdRPelxGc/hqdefault.jpg",
+      "tag": "Promo",
+      "content": [
+        {
+          "type": "web",
+          "url": "https://youtube.com/shorts/y9wdRPelxGc",
+          "poster": "https://img.youtube.com/vi/y9wdRPelxGc/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "yt4",
+      "thumbnailUrl": "https://img.youtube.com/vi/AHQgyESfgac/hqdefault.jpg",
+      "tag": "Promo",
+      "content": [
+        {
+          "type": "web",
+          "url": "https://youtube.com/shorts/AHQgyESfgac",
+          "poster": "https://img.youtube.com/vi/AHQgyESfgac/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "yt5",
+      "thumbnailUrl": "https://img.youtube.com/vi/6-nqM9ZFq_c/hqdefault.jpg",
+      "tag": "Promo",
+      "content": [
+        {
+          "type": "web",
+          "url": "https://youtube.com/shorts/6-nqM9ZFq_c",
+          "poster": "https://img.youtube.com/vi/6-nqM9ZFq_c/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "yt6",
+      "thumbnailUrl": "https://img.youtube.com/vi/FM6WIIWa_7c/hqdefault.jpg",
+      "tag": "Promo",
+      "content": [
+        {
+          "type": "web",
+          "url": "https://youtube.com/shorts/FM6WIIWa_7c",
+          "poster": "https://img.youtube.com/vi/FM6WIIWa_7c/hqdefault.jpg"
+        }
+      ]
+    }
+  ]
+}
