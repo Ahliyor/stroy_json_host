@@ -1,18 +1,6 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "stories": [
-    {
-      "id": "yt1",
-      "thumbnailUrl": "https://img.youtube.com/vi/tU26VrZkWA4/hqdefault.jpg",
-      "tag": "Promo",
-      "content": [
-        {
-          "type": "web",
-          "url": "https://youtube.com/shorts/tU26VrZkWA4",
-          "poster": "https://img.youtube.com/vi/tU26VrZkWA4/hqdefault.jpg"
-        }
-      ]
-    },
     {
       "id": "yt2",
       "thumbnailUrl": "https://img.youtube.com/vi/Y-tLBLYPEIY/hqdefault.jpg",
@@ -22,6 +10,18 @@
           "type": "web",
           "url": "https://youtube.com/shorts/Y-tLBLYPEIY",
           "poster": "https://img.youtube.com/vi/Y-tLBLYPEIY/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "yt1",
+      "thumbnailUrl": "https://img.youtube.com/vi/tU26VrZkWA4/hqdefault.jpg",
+      "tag": "Promo",
+      "content": [
+        {
+          "type": "web",
+          "url": "https://youtube.com/shorts/tU26VrZkWA4",
+          "poster": "https://img.youtube.com/vi/tU26VrZkWA4/hqdefault.jpg"
         }
       ]
     },
