@@ -1,64 +1,81 @@
 {
-  "version": "1.4",
+  "version": "1.5",
   "stories": [
     {
-      "id": "yt2",
-      "thumbnailUrl": "https://img.youtube.com/vi/Y-tLBLYPEIY/hqdefault.jpg",
+      "id": "dbx_brain_train",
+      "thumbnailUrl": "https://placehold.co/300x300?text=brain_train",
       "tag": "Promo",
       "content": [
         {
-          "type": "web",
-          "url": "https://youtube.com/shorts/Y-tLBLYPEIY",
-          "poster": "https://img.youtube.com/vi/Y-tLBLYPEIY/hqdefault.jpg"
+          "type": "video",
+          "url": "https://dl.dropboxusercontent.com/scl/fi/507rmb9lxwupmwp94ty8e/brain_train_video.MP4?rlkey=px3qkvekpwzv53dov8w6vvutp&st=8ikv5x8t",
+          "poster": "https://placehold.co/800x1200?text=brain_train",
+          "duration": 0
         }
       ]
     },
     {
-      "id": "yt1",
-      "thumbnailUrl": "https://img.youtube.com/vi/tU26VrZkWA4/hqdefault.jpg",
+      "id": "dbx_cashback",
+      "thumbnailUrl": "https://placehold.co/300x300?text=cashback",
       "tag": "Promo",
       "content": [
         {
-          "type": "web",
-          "url": "https://youtube.com/shorts/tU26VrZkWA4",
-          "poster": "https://img.youtube.com/vi/tU26VrZkWA4/hqdefault.jpg"
-        }
-      ]
-    },
-   
-    {
-      "id": "yt4",
-      "thumbnailUrl": "https://img.youtube.com/vi/AHQgyESfgac/hqdefault.jpg",
-      "tag": "Promo",
-      "content": [
-        {
-          "type": "web",
-          "url": "https://youtube.com/shorts/AHQgyESfgac",
-          "poster": "https://img.youtube.com/vi/AHQgyESfgac/hqdefault.jpg"
+          "type": "video",
+          "url": "https://dl.dropboxusercontent.com/scl/fi/z5xxyetc8v7lz7y0b2wss/cashback_video.MP4?rlkey=li2sil7sline37utd7zw9wjwt&st=facf1vm0",
+          "poster": "https://placehold.co/800x1200?text=cashback",
+          "duration": 0
         }
       ]
     },
     {
-      "id": "yt5",
-      "thumbnailUrl": "https://img.youtube.com/vi/6-nqM9ZFq_c/hqdefault.jpg",
+      "id": "dbx_english_commands",
+      "thumbnailUrl": "https://placehold.co/300x300?text=eng_commands",
       "tag": "Promo",
       "content": [
         {
-          "type": "web",
-          "url": "https://youtube.com/shorts/6-nqM9ZFq_c",
-          "poster": "https://img.youtube.com/vi/6-nqM9ZFq_c/hqdefault.jpg"
+          "type": "video",
+          "url": "https://dl.dropboxusercontent.com/scl/fi/etnstpwbjpr7sr3i1rsid/english_commands_video.mp4?rlkey=9264qfwmvrwoymhta6tifiujg&st=a0e7sxkn",
+          "poster": "https://placehold.co/800x1200?text=eng_commands",
+          "duration": 0
         }
       ]
     },
     {
-      "id": "yt6",
-      "thumbnailUrl": "https://img.youtube.com/vi/FM6WIIWa_7c/hqdefault.jpg",
+      "id": "dbx_english_russian",
+      "thumbnailUrl": "https://placehold.co/300x300?text=eng_russian",
       "tag": "Promo",
       "content": [
         {
-          "type": "web",
-          "url": "https://youtube.com/shorts/FM6WIIWa_7c",
-          "poster": "https://img.youtube.com/vi/FM6WIIWa_7c/hqdefault.jpg"
+          "type": "video",
+          "url": "https://dl.dropboxusercontent.com/scl/fi/xcs7bbbl8334ki0ryji1g/english_russian_video.MP4?rlkey=tqg685rnyqoqhvk6rx2cac3tg&st=73ojemct",
+          "poster": "https://placehold.co/800x1200?text=eng_russian",
+          "duration": 0
+        }
+      ]
+    },
+    {
+      "id": "dbx_library",
+      "thumbnailUrl": "https://placehold.co/300x300?text=library",
+      "tag": "Promo",
+      "content": [
+        {
+          "type": "video",
+          "url": "https://dl.dropboxusercontent.com/scl/fi/uzg1nktzdvl74kejw7g5m/library_video.mp4?rlkey=ubbkndt6fv5ng2gkng4yrrfmb&st=0c75lh7c",
+          "poster": "https://placehold.co/800x1200?text=library",
+          "duration": 0
+        }
+      ]
+    },
+    {
+      "id": "dbx_shurik",
+      "thumbnailUrl": "https://placehold.co/300x300?text=shurik",
+      "tag": "Promo",
+      "content": [
+        {
+          "type": "video",
+          "url": "https://dl.dropboxusercontent.com/scl/fi/9ls6kisj0zb70qeuuip1v/shurik_video.mp4?rlkey=we59qecbl5mc9scv2ola0oz0m&st=stn2qc98",
+          "poster": "https://placehold.co/800x1200?text=shurik",
+          "duration": 0
         }
       ]
     }
