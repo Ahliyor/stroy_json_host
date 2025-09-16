@@ -1,80 +1,80 @@
 {
-  "version": "1.6",
+  "version": "1.7",
   "stories": [
     {
       "id": "dbx_brain_train",
-      "thumbnailUrl": "https://dl.dropboxusercontent.com/scl/fi/h08njn5gznjdslm3v7u2u/brain_train_video.jpg?rlkey=yabrzjfmg2dtofvsleqsw4yke&st=mbume6fj",
+      "thumbnailUrl": "https://www.dropbox.com/scl/fi/h08njn5gznjdslm3v7u2u/brain_train_video.jpg?rlkey=yabrzjfmg2dtofvsleqsw4yke&raw=1",
       "tag": "Promo",
       "content": [
         {
           "type": "video",
-          "url": "https://dl.dropboxusercontent.com/scl/fi/507rmb9lxwupmwp94ty8e/brain_train_video.MP4?rlkey=px3qkvekpwzv53dov8w6vvutp&st=8ikv5x8t",
-          "poster": "https://dl.dropboxusercontent.com/scl/fi/h08njn5gznjdslm3v7u2u/brain_train_video.jpg?rlkey=yabrzjfmg2dtofvsleqsw4yke&st=mbume6fj",
+          "url": "https://www.dropbox.com/scl/fi/507rmb9lxwupmwp94ty8e/brain_train_video.MP4?rlkey=px3qkvekpwzv53dov8w6vvutp&raw=1",
+          "poster": "https://www.dropbox.com/scl/fi/h08njn5gznjdslm3v7u2u/brain_train_video.jpg?rlkey=yabrzjfmg2dtofvsleqsw4yke&raw=1",
           "duration": 0
         }
       ]
     },
     {
       "id": "dbx_cashback",
-      "thumbnailUrl": "https://dl.dropboxusercontent.com/scl/fi/r0s9skgs20ylksra1uw9k/cashback_video.jpg?rlkey=6ni74d7p188k0lo9btmysgw51&st=1pve20zb",
+      "thumbnailUrl": "https://www.dropbox.com/scl/fi/r0s9skgs20ylksra1uw9k/cashback_video.jpg?rlkey=6ni74d7p188k0lo9btmysgw51&raw=1",
       "tag": "Promo",
       "content": [
         {
           "type": "video",
-          "url": "https://dl.dropboxusercontent.com/scl/fi/z5xxyetc8v7lz7y0b2wss/cashback_video.MP4?rlkey=li2sil7sline37utd7zw9wjwt&st=facf1vm0",
-          "poster": "https://dl.dropboxusercontent.com/scl/fi/r0s9skgs20ylksra1uw9k/cashback_video.jpg?rlkey=6ni74d7p188k0lo9btmysgw51&st=1pve20zb",
+          "url": "https://www.dropbox.com/scl/fi/z5xxyetc8v7lz7y0b2wss/cashback_video.MP4?rlkey=li2sil7sline37utd7zw9wjwt&raw=1",
+          "poster": "https://www.dropbox.com/scl/fi/r0s9skgs20ylksra1uw9k/cashback_video.jpg?rlkey=6ni74d7p188k0lo9btmysgw51&raw=1",
           "duration": 0
         }
       ]
     },
     {
       "id": "dbx_english_commands",
-      "thumbnailUrl": "https://dl.dropboxusercontent.com/scl/fi/7eto7kp5q3v1wym2w1c2j/english_commands_video.jpg?rlkey=ds6xz3msrhss4egk1t4o0yt0z&st=0wh07tod",
+      "thumbnailUrl": "https://www.dropbox.com/scl/fi/7eto7kp5q3v1wym2w1c2j/english_commands_video.jpg?rlkey=ds6xz3msrhss4egk1t4o0yt0z&raw=1",
       "tag": "Promo",
       "content": [
         {
           "type": "video",
-          "url": "https://dl.dropboxusercontent.com/scl/fi/etnstpwbjpr7sr3i1rsid/english_commands_video.mp4?rlkey=9264qfwmvrwoymhta6tifiujg&st=a0e7sxkn",
-          "poster": "https://dl.dropboxusercontent.com/scl/fi/7eto7kp5q3v1wym2w1c2j/english_commands_video.jpg?rlkey=ds6xz3msrhss4egk1t4o0yt0z&st=0wh07tod",
+          "url": "https://www.dropbox.com/scl/fi/etnstpwbjpr7sr3i1rsid/english_commands_video.mp4?rlkey=9264qfwmvrwoymhta6tifiujg&raw=1",
+          "poster": "https://www.dropbox.com/scl/fi/7eto7kp5q3v1wym2w1c2j/english_commands_video.jpg?rlkey=ds6xz3msrhss4egk1t4o0yt0z&raw=1",
           "duration": 0
         }
       ]
     },
     {
       "id": "dbx_english_russian",
-      "thumbnailUrl": "https://dl.dropboxusercontent.com/scl/fi/925zdd2ysmj0r6vmy4ymv/english_russian_video.jpg?rlkey=w3l1seyxbidqkx13ipass9asj&st=vzbkbq03",
+      "thumbnailUrl": "https://www.dropbox.com/scl/fi/925zdd2ysmj0r6vmy4ymv/english_russian_video.jpg?rlkey=w3l1seyxbidqkx13ipass9asj&raw=1",
       "tag": "Promo",
       "content": [
         {
           "type": "video",
-          "url": "https://dl.dropboxusercontent.com/scl/fi/xcs7bbbl8334ki0ryji1g/english_russian_video.MP4?rlkey=tqg685rnyqoqhvk6rx2cac3tg&st=73ojemct",
-          "poster": "https://dl.dropboxusercontent.com/scl/fi/925zdd2ysmj0r6vmy4ymv/english_russian_video.jpg?rlkey=w3l1seyxbidqkx13ipass9asj&st=vzbkbq03",
+          "url": "https://www.dropbox.com/scl/fi/xcs7bbbl8334ki0ryji1g/english_russian_video.MP4?rlkey=tqg685rnyqoqhvk6rx2cac3tg&raw=1",
+          "poster": "https://www.dropbox.com/scl/fi/925zdd2ysmj0r6vmy4ymv/english_russian_video.jpg?rlkey=w3l1seyxbidqkx13ipass9asj&raw=1",
           "duration": 0
         }
       ]
     },
     {
       "id": "dbx_library",
-      "thumbnailUrl": "https://dl.dropboxusercontent.com/scl/fi/i1h58za4o7nnm76xztftf/library_video.jpg?rlkey=x6e7bz674o9s0v8sj0hswmmk3&st=ds5ghodu",
+      "thumbnailUrl": "https://www.dropbox.com/scl/fi/i1h58za4o7nnm76xztftf/library_video.jpg?rlkey=x6e7bz674o9s0v8sj0hswmmk3&raw=1",
       "tag": "Promo",
       "content": [
         {
           "type": "video",
-          "url": "https://dl.dropboxusercontent.com/scl/fi/uzg1nktzdvl74kejw7g5m/library_video.mp4?rlkey=ubbkndt6fv5ng2gkng4yrrfmb&st=0c75lh7c",
-          "poster": "https://dl.dropboxusercontent.com/scl/fi/i1h58za4o7nnm76xztftf/library_video.jpg?rlkey=x6e7bz674o9s0v8sj0hswmmk3&st=ds5ghodu",
+          "url": "https://www.dropbox.com/scl/fi/uzg1nktzdvl74kejw7g5m/library_video.mp4?rlkey=ubbkndt6fv5ng2gkng4yrrfmb&raw=1",
+          "poster": "https://www.dropbox.com/scl/fi/i1h58za4o7nnm76xztftf/library_video.jpg?rlkey=x6e7bz674o9s0v8sj0hswmmk3&raw=1",
           "duration": 0
         }
       ]
     },
     {
       "id": "dbx_shurik",
-      "thumbnailUrl": "https://dl.dropboxusercontent.com/scl/fi/9brm9y1xc0uizo3j75yw0/shurik_video.jpg?rlkey=5j56j84fw5uxmg3wds2zk6tth&st=o996kl0y",
+      "thumbnailUrl": "https://www.dropbox.com/scl/fi/9brm9y1xc0uizo3j75yw0/shurik_video.jpg?rlkey=5j56j84fw5uxmg3wds2zk6tth&raw=1",
       "tag": "Promo",
       "content": [
         {
           "type": "video",
-          "url": "https://dl.dropboxusercontent.com/scl/fi/9ls6kisj0zb70qeuuip1v/shurik_video.mp4?rlkey=we59qecbl5mc9scv2ola0oz0m&st=stn2qc98",
-          "poster": "https://dl.dropboxusercontent.com/scl/fi/9brm9y1xc0uizo3j75yw0/shurik_video.jpg?rlkey=5j56j84fw5uxmg3wds2zk6tth&st=o996kl0y",
+          "url": "https://www.dropbox.com/scl/fi/9ls6kisj0zb70qeuuip1v/shurik_video.mp4?rlkey=we59qecbl5mc9scv2ola0oz0m&raw=1",
+          "poster": "https://www.dropbox.com/scl/fi/9brm9y1xc0uizo3j75yw0/shurik_video.jpg?rlkey=5j56j84fw5uxmg3wds2zk6tth&raw=1",
           "duration": 0
         }
       ]
