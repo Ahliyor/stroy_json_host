@@ -1,5 +1,5 @@
 {
-  "version": "1.7",
+  "version": "1.8",
   "stories": [
     {
       "id": "dbx_brain_train",
@@ -10,6 +10,7 @@
           "type": "video",
           "url": "https://www.dropbox.com/scl/fi/507rmb9lxwupmwp94ty8e/brain_train_video.MP4?rlkey=px3qkvekpwzv53dov8w6vvutp&raw=1",
           "poster": "https://www.dropbox.com/scl/fi/h08njn5gznjdslm3v7u2u/brain_train_video.jpg?rlkey=yabrzjfmg2dtofvsleqsw4yke&raw=1",
+          "caption": "Brain Train ya’ni Zakovat o’yinidan lavha!",
           "duration": 0
         }
       ]
@@ -23,6 +24,7 @@
           "type": "video",
           "url": "https://www.dropbox.com/scl/fi/z5xxyetc8v7lz7y0b2wss/cashback_video.MP4?rlkey=li2sil7sline37utd7zw9wjwt&raw=1",
           "poster": "https://www.dropbox.com/scl/fi/r0s9skgs20ylksra1uw9k/cashback_video.jpg?rlkey=6ni74d7p188k0lo9btmysgw51&raw=1",
+          "caption":"🎊 Har bir mehnat o’z natijasini beradi…",
           "duration": 0
         }
       ]
@@ -36,6 +38,7 @@
           "type": "video",
           "url": "https://www.dropbox.com/scl/fi/etnstpwbjpr7sr3i1rsid/english_commands_video.mp4?rlkey=9264qfwmvrwoymhta6tifiujg&raw=1",
           "poster": "https://www.dropbox.com/scl/fi/7eto7kp5q3v1wym2w1c2j/english_commands_video.jpg?rlkey=ds6xz3msrhss4egk1t4o0yt0z&raw=1",
+          "caption":"📌 Buyruq gap tuzishni o‘rganamiz!",
           "duration": 0
         }
       ]
@@ -49,6 +52,7 @@
           "type": "video",
           "url": "https://www.dropbox.com/scl/fi/xcs7bbbl8334ki0ryji1g/english_russian_video.MP4?rlkey=tqg685rnyqoqhvk6rx2cac3tg&raw=1",
           "poster": "https://www.dropbox.com/scl/fi/925zdd2ysmj0r6vmy4ymv/english_russian_video.jpg?rlkey=w3l1seyxbidqkx13ipass9asj&raw=1",
+          "caption": "🤔Rus tili osonmi yoki ingliz tili?\nStart21 bilan har ikkisi oson!",
           "duration": 0
         }
       ]
@@ -62,6 +66,7 @@
           "type": "video",
           "url": "https://www.dropbox.com/scl/fi/uzg1nktzdvl74kejw7g5m/library_video.mp4?rlkey=ubbkndt6fv5ng2gkng4yrrfmb&raw=1",
           "poster": "https://www.dropbox.com/scl/fi/i1h58za4o7nnm76xztftf/library_video.jpg?rlkey=x6e7bz674o9s0v8sj0hswmmk3&raw=1",
+          "caption": "👀 Sizga qayerda dars qilish qulay?",
           "duration": 0
         }
       ]
@@ -75,6 +80,7 @@
           "type": "video",
           "url": "https://www.dropbox.com/scl/fi/9ls6kisj0zb70qeuuip1v/shurik_video.mp4?rlkey=we59qecbl5mc9scv2ola0oz0m&raw=1",
           "poster": "https://www.dropbox.com/scl/fi/9brm9y1xc0uizo3j75yw0/shurik_video.jpg?rlkey=5j56j84fw5uxmg3wds2zk6tth&raw=1",
+          "caption":"Bizning o‘quvchilar qanday dars qilishadi? 😉",
           "duration": 0
         }
       ]
