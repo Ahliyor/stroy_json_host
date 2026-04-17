@@ -1,86 +1,114 @@
 {
-  "version": "1.8",
+  "version": "1.9",
   "stories": [
     {
-      "id": "dbx_brain_train",
-      "thumbnailUrl": "https://www.dropbox.com/scl/fi/h08njn5gznjdslm3v7u2u/brain_train_video.jpg?rlkey=yabrzjfmg2dtofvsleqsw4yke&raw=1",
+      "id": "shahmat",
+      "thumbnailUrl": "https://www.dropbox.com/scl/fi/ya9vrjhis8nq3gme9aes7/shahmat.jpg?rlkey=xis1l3na1lnz3g243da2jwdh3&st=jhodi29k&raw=1",
       "tag": "Promo",
       "content": [
         {
           "type": "video",
-          "url": "https://www.dropbox.com/scl/fi/507rmb9lxwupmwp94ty8e/brain_train_video.MP4?rlkey=px3qkvekpwzv53dov8w6vvutp&raw=1",
-          "poster": "https://www.dropbox.com/scl/fi/h08njn5gznjdslm3v7u2u/brain_train_video.jpg?rlkey=yabrzjfmg2dtofvsleqsw4yke&raw=1",
-          "caption": "Brain Train ya’ni Zakovat o’yinidan lavha!",
+          "url": "https://www.dropbox.com/scl/fi/ksrfrcjn0anz76dw1l8ln/shahmat_faststart.mp4?rlkey=js3gx83v9ny7y7uy3nrhfv68q&st=oywvmlda&raw=1",
+          "poster": "https://www.dropbox.com/scl/fi/ya9vrjhis8nq3gme9aes7/shahmat.jpg?rlkey=xis1l3na1lnz3g243da2jwdh3&st=jhodi29k&raw=1",
+          "caption": "♟Markazimizda Shaxmat musobaqasi bo’lib o’tdi.",
           "duration": 0
         }
       ]
     },
     {
-      "id": "dbx_cashback",
-      "thumbnailUrl": "https://www.dropbox.com/scl/fi/r0s9skgs20ylksra1uw9k/cashback_video.jpg?rlkey=6ni74d7p188k0lo9btmysgw51&raw=1",
+      "id": "new_call_number",
+      "thumbnailUrl": "https://www.dropbox.com/scl/fi/5hdks6ip2ckbh9atbo8go/new_call_number.jpg?rlkey=ya2kr6ul22v9kxmpv5b3yuurb&st=ap8zczbo&raw=1",
       "tag": "Promo",
       "content": [
         {
           "type": "video",
-          "url": "https://www.dropbox.com/scl/fi/z5xxyetc8v7lz7y0b2wss/cashback_video.MP4?rlkey=li2sil7sline37utd7zw9wjwt&raw=1",
-          "poster": "https://www.dropbox.com/scl/fi/r0s9skgs20ylksra1uw9k/cashback_video.jpg?rlkey=6ni74d7p188k0lo9btmysgw51&raw=1",
-          "caption":"🎊 Har bir mehnat o’z natijasini beradi…",
+          "url": "https://www.dropbox.com/scl/fi/0wabszetri4bdnbvhokmk/new_call_number_faststart.mp4?rlkey=qvw2ooqkjjmi08nvjbycae5gn&st=1v89t16i&raw=1",
+          "poster": "https://www.dropbox.com/scl/fi/5hdks6ip2ckbh9atbo8go/new_call_number.jpg?rlkey=ya2kr6ul22v9kxmpv5b3yuurb&st=ap8zczbo&raw=1",
+          "caption": "🗣️ Start21ning call center raqami o’zgardi!",
           "duration": 0
         }
       ]
     },
     {
-      "id": "dbx_english_commands",
-      "thumbnailUrl": "https://www.dropbox.com/scl/fi/7eto7kp5q3v1wym2w1c2j/english_commands_video.jpg?rlkey=ds6xz3msrhss4egk1t4o0yt0z&raw=1",
+      "id": "new_branding",
+      "thumbnailUrl": "https://www.dropbox.com/scl/fi/zx30i5m09uby1yuil18xi/new_branding.jpg?rlkey=wx2y4e8qu4000wlqzsd0etx8q&st=u2dsnr1u&raw=1",
       "tag": "Promo",
       "content": [
         {
           "type": "video",
-          "url": "https://www.dropbox.com/scl/fi/etnstpwbjpr7sr3i1rsid/english_commands_video.mp4?rlkey=9264qfwmvrwoymhta6tifiujg&raw=1",
-          "poster": "https://www.dropbox.com/scl/fi/7eto7kp5q3v1wym2w1c2j/english_commands_video.jpg?rlkey=ds6xz3msrhss4egk1t4o0yt0z&raw=1",
-          "caption":"📌 Buyruq gap tuzishni o‘rganamiz!",
+          "url": "https://www.dropbox.com/scl/fi/zyr5qp1v34de24ib8fhxa/new_branding_faststart.mp4?rlkey=h1pce42ouf79tleq91rmv47vb&st=m3dvguy4&raw=1",
+          "poster": "https://www.dropbox.com/scl/fi/zx30i5m09uby1yuil18xi/new_branding.jpg?rlkey=wx2y4e8qu4000wlqzsd0etx8q&st=u2dsnr1u&raw=1",
+          "caption": "😎 Start21 endi yangi ko’rinishda!",
           "duration": 0
         }
       ]
     },
     {
-      "id": "dbx_english_russian",
-      "thumbnailUrl": "https://www.dropbox.com/scl/fi/925zdd2ysmj0r6vmy4ymv/english_russian_video.jpg?rlkey=w3l1seyxbidqkx13ipass9asj&raw=1",
+      "id": "kutubhona",
+      "thumbnailUrl": "https://www.dropbox.com/scl/fi/zdziiqgc6ggzy4ngw3hrk/kutubhona.jpg?rlkey=0hjq06mcxalzupjkav6w781vv&st=72vj3b4p&raw=1",
       "tag": "Promo",
       "content": [
         {
           "type": "video",
-          "url": "https://www.dropbox.com/scl/fi/xcs7bbbl8334ki0ryji1g/english_russian_video.MP4?rlkey=tqg685rnyqoqhvk6rx2cac3tg&raw=1",
-          "poster": "https://www.dropbox.com/scl/fi/925zdd2ysmj0r6vmy4ymv/english_russian_video.jpg?rlkey=w3l1seyxbidqkx13ipass9asj&raw=1",
-          "caption": "🤔Rus tili osonmi yoki ingliz tili?\nStart21 bilan har ikkisi oson!",
+          "url": "https://www.dropbox.com/scl/fi/sdklzhk63rzghkt80phrt/kutubhona_faststart.mp4?rlkey=x38b8w1tilp0hz2aq053rtzjl&st=egf45mdl&raw=1",
+          "poster": "https://www.dropbox.com/scl/fi/zdziiqgc6ggzy4ngw3hrk/kutubhona.jpg?rlkey=0hjq06mcxalzupjkav6w781vv&st=72vj3b4p&raw=1",
+          "caption": "👥 Sen bilan dunyo qarashi bir xil do’stni uchratganingda…",
           "duration": 0
         }
       ]
     },
     {
-      "id": "dbx_library",
-      "thumbnailUrl": "https://www.dropbox.com/scl/fi/i1h58za4o7nnm76xztftf/library_video.jpg?rlkey=x6e7bz674o9s0v8sj0hswmmk3&raw=1",
+      "id": "ielts_parody",
+      "thumbnailUrl": "https://www.dropbox.com/scl/fi/vw20ezd2imiunmqc9xw38/ielts_parody.jpg?rlkey=h754qg0r8pbmdiycu8upmzajv&st=a2rke211&raw=1",
       "tag": "Promo",
       "content": [
         {
           "type": "video",
-          "url": "https://www.dropbox.com/scl/fi/uzg1nktzdvl74kejw7g5m/library_video.mp4?rlkey=ubbkndt6fv5ng2gkng4yrrfmb&raw=1",
-          "poster": "https://www.dropbox.com/scl/fi/i1h58za4o7nnm76xztftf/library_video.jpg?rlkey=x6e7bz674o9s0v8sj0hswmmk3&raw=1",
-          "caption": "👀 Sizga qayerda dars qilish qulay?",
+          "url": "https://www.dropbox.com/scl/fi/tkcfybckiiwk3p0x2asyb/ielts_parody_faststart.mp4?rlkey=hnxwrs6ph0r3o4cft26ek1e9b&st=7w05s4rw&raw=1",
+          "poster": "https://www.dropbox.com/scl/fi/vw20ezd2imiunmqc9xw38/ielts_parody.jpg?rlkey=h754qg0r8pbmdiycu8upmzajv&st=a2rke211&raw=1",
+          "caption": "📺 IELTS – o’zbek milliy filmlari bo’lganida…",
           "duration": 0
         }
       ]
     },
     {
-      "id": "dbx_shurik",
-      "thumbnailUrl": "https://www.dropbox.com/scl/fi/9brm9y1xc0uizo3j75yw0/shurik_video.jpg?rlkey=5j56j84fw5uxmg3wds2zk6tth&raw=1",
+      "id": "chortoq_qurilish",
+      "thumbnailUrl": "https://www.dropbox.com/scl/fi/87jhw4gfxlr5s5o9dl8mg/chortoq_qurilish.jpg?rlkey=2h4vlxwawpuuqklfq993evv2z&st=v8wftj4d&raw=1",
       "tag": "Promo",
       "content": [
         {
           "type": "video",
-          "url": "https://www.dropbox.com/scl/fi/9ls6kisj0zb70qeuuip1v/shurik_video.mp4?rlkey=we59qecbl5mc9scv2ola0oz0m&raw=1",
-          "poster": "https://www.dropbox.com/scl/fi/9brm9y1xc0uizo3j75yw0/shurik_video.jpg?rlkey=5j56j84fw5uxmg3wds2zk6tth&raw=1",
-          "caption":"Bizning o‘quvchilar qanday dars qilishadi? 😉",
+          "url": "https://www.dropbox.com/scl/fi/3lt60rtiv5i6fjb4y4u49/chortoq_qurilish_faststart.mp4?rlkey=93t4jm8zkrsc0p54pt8pcnaxh&st=sesi8ke8&raw=1",
+          "poster": "https://www.dropbox.com/scl/fi/87jhw4gfxlr5s5o9dl8mg/chortoq_qurilish.jpg?rlkey=2h4vlxwawpuuqklfq993evv2z&st=v8wftj4d&raw=1",
+          "caption": "⚡️Chortoqda yangi START21 ochildi.",
+          "duration": 0
+        }
+      ]
+    },
+    {
+      "id": "cefr_mock",
+      "thumbnailUrl": "https://www.dropbox.com/scl/fi/sc1sftl8at3ar0d574yts/cefr_mock.jpg?rlkey=kxtvzhp4vgn5byw747bvhietc&st=z1rnuzku&raw=1",
+      "tag": "Promo",
+      "content": [
+        {
+          "type": "video",
+          "url": "https://www.dropbox.com/scl/fi/xfx6uzx835udgb1hnyza8/cefr_mock_faststart.mp4?rlkey=3aj0qjtcl54eu30k2vllxsqi7&st=21off2hw&raw=1",
+          "poster": "https://www.dropbox.com/scl/fi/sc1sftl8at3ar0d574yts/cefr_mock.jpg?rlkey=kxtvzhp4vgn5byw747bvhietc&st=z1rnuzku&raw=1",
+          "caption": "Haqiqiy imtihon muhiti🔥",
+          "duration": 0
+        }
+      ]
+    },
+    {
+      "id": "8.5_score",
+      "thumbnailUrl": "https://www.dropbox.com/scl/fi/dpu9qq3auxmomf7dtp235/8.5_score_video.jpg?rlkey=dnp1usb658112grvfwethmsss&st=h3n04496&raw=1",
+      "tag": "Promo",
+      "content": [
+        {
+          "type": "video",
+          "url": "https://www.dropbox.com/scl/fi/lwzrmhhruiwlnnazumjwf/8.5_score_video_faststart.mp4?rlkey=chi438ucg5awu7bnpz8jh3c31&st=oamobk5o&raw=1",
+          "poster": "https://www.dropbox.com/scl/fi/dpu9qq3auxmomf7dtp235/8.5_score_video.jpg?rlkey=dnp1usb658112grvfwethmsss&st=h3n04496&raw=1",
+          "caption": "📈 Bu natija shunchaki raqam emas!",
           "duration": 0
         }
       ]
